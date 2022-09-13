@@ -1,4 +1,4 @@
 FROM openjdk:11
-ADD target/blog-api-docker.jar blog-api-docker.jar
-ENTRYPOINT ["java", "-jar","blog-api-docker.jar"]
+ADD target/td1cloud.jar td1cloud.jar
+ENTRYPOINT ["java", "-jar","td1cloud.jar"]
 EXPOSE 8080

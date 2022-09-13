@@ -39,7 +39,7 @@
     </dependencies>
 
     <build>
-        <finalName>blog-api-docker</finalName>
+        <finalName>td1cloud</finalName>
 
         <plugins>
             <plugin>
